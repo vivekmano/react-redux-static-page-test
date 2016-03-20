@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 React Redux Starter Kit
 =======================
 
@@ -324,3 +325,6 @@ While this is common to any sizable application, it's worth noting for those who
 ```
 	"folder_exclude_patterns": [".svn",	".git",	".hg", "CVS",	"node_modules",	"dist"]
 ```
+=======
+# react-redux-static-page-test
+>>>>>>> 8f8ef9c786560c115408fdca159d0aedbf128f48
